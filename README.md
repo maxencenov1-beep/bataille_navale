@@ -1,4 +1,4 @@
-# ⚓ Bataille Navale — PHP OOP
+# ⚓ Bataille Navale — PHP Orienté Objet
 
 [PHP 8]
 [Orienté Objet]
